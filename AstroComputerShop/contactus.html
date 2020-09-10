@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width-device-width,initial-scale-1.0">
+	<title>Contact Us</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div>
+	<header>
+		<div class="logo">
+			<a href="index.html">
+				<img src="images/logo.png" align="center" >
+			</a>
+		</div>
+	</header>
+</div>
+<div class="menu" align="center">
+
+	<a href="index.html">Home</a>
+	<a href="shop.html">Shop</a>
+	<a href="contactus.html">Contact Us</a>
+	<a href="aboutus.html">About Us</a>
+	<a href="enquiry.html">Enquiry Form</a>
+</div>
+<hr>
+<h1 class="heading" align="center"><u>Contact Us</u></h1>
+<hr>
+<div class="map"> 
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.139609225427!2d72.97367731490287!3d19.189103687023064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b9272d04bc9d%3A0x75201ee8f2023d1!2sComputech!5e0!3m2!1sen!2sin!4v1599499669847!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</div>
+	<div id="frm" >
+
+		<h2 align="center">Form !</h2>
+		<form class="form" action="connect.php" method="post" >
+			<table>
+				<tr>
+				<td>Name : </td>
+				<td><input type="text" name="name" required></td>
+				</tr>
+				<tr>
+				<td>Surname : </td>
+				<td><input type="text" name="surname" required></td>
+				</tr>
+				<tr>
+				<td>Phone : </td>
+				<td><input type="number" name="phno" required></td>
+				</tr>
+				<tr>
+				<td>City : </td>
+				<td><input type="text" name="city"></td>
+				</tr>
+				<tr>
+					<td>
+						<b><u>Purpose of Contact :-</u></b>
+					</td>
+				</tr>
+				<tr>
+				<td>Quotation </td>
+				<td><input type="Checkbox" name="purpose" value="Quotation" id="quotation"></td>
+				<td>Sell Product</td>
+				<td><input type="Checkbox" name="purpose" value="Sell" id="sell"></td>
+				</tr>
+				<tr>
+				<td>Repairing </td>
+				<td><input type="Checkbox" name="purpose" value="Repairing" id="repair"></td>
+				<td>Annual Maintainance Contract</td>
+				<td><input type="Checkbox" name="purpose" value="Contract" id="contract"></td>
+				</tr>
+				<tr>
+				<td>Other </td>
+				<td><input type="Checkbox" name="purpose" value="Other" id="other"></td>
+				</tr>
+
+				<tr>
+					<br>
+				<br>
+					<td>
+							<button type="submit" class="btn">Get A Call From Us</button>
+
+					</td>
+				</tr>
+			</table>
+		</form>
+	</div>
+	<hr>
+	<footer class="footer"> <p>© 2015-2020 Astro and individual contributors. Content is available under these licenses.<a href="terms.html">Terms & Conditions</a></p></footer>
+</body>
+</html>

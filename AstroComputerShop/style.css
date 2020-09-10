@@ -1,0 +1,215 @@
+.logo{
+	margin-top: -50px; 
+	text-align: center;
+
+}
+body{
+	background-color: #ffffff;
+	margin: 0 auto;
+
+}
+.menu{
+	padding: 0.5em 1.4em;
+	background-color: #3498DB;
+}
+.menu>a{
+	background-color: #2C3E50;
+	color: white;
+	text-align: center;
+	padding: 0.5em 1.4em;
+	font-family: cursive;
+	column-span: 2px; 
+	font-weight: bold;
+}
+
+.menu>a:hover{
+	transition: all .6s;
+	cursor: pointer;
+	color: #DC143C ;
+	text-shadow: 5px;
+
+}
+.menu>a:active{
+	color: red;
+}
+.slidershow{
+	width: 700px;
+	height: 300px;
+	
+
+}
+
+
+#title{
+	font-family: sans-serif;
+
+}
+
+.button>a
+{
+	background-color: black;
+	color: grey;
+	text-align: center;
+	padding: 0.1em 0.5em;
+	font-family: cursive;
+	column-span: 2px; 
+	font-weight: bold;
+}
+
+
+.shopmenu>a
+{
+		background-color: black;
+	color: white;
+	text-align: center;
+	padding: 0.5em 1.4em;
+	font-family: cursive;
+	column-span: 2px; 
+	font-weight: bold;
+}
+
+.table{
+	margin-left: 50px;
+}
+
+.shopmenu>a:hover{
+transition: all .6s;
+	cursor: pointer;
+	color: #DC143C ;
+	text-shadow: 5px;
+}
+
+.form{
+	margin-left: 30px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+h2{
+
+	margin-left: 20px;
+}
+p{
+	margin-left: 20px;
+}
+
+.button>a:hover{
+transition: all .6s;
+	cursor: pointer;
+	color: #DC143C ;
+	text-shadow: 5px;
+
+}
+
+hr{
+	    height: 2px;
+
+        background-color: red;
+
+        border: none;
+}
+
+button:hover{opacity: 0.6}{
+transition: all .6s;
+	cursor: pointer;
+	color: #DC143C ;
+	text-shadow: 5px;
+}
+
+button{
+	background-color: black;
+	color: white;
+	border: 2px;
+	text-shadow: 10px;
+}
+
+.menu>a:active{
+	color: #DC143C
+}
+.indexfooter {
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.eform{
+	background-color: #ffe6e6;
+}
+
+.terms{
+	margin-left: 10px;
+}
+
+#btn{
+	color:#fff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 69%;
+}
+
+#frm{
+	border:solid gray 1px;
+	width:20%
+	border-radius:5px;
+	margin:100px auto;
+	background:white;
+	padding:40px;
+}
+
+
+.banner{
+	width: 1000px;
+	height: 400px;
+	overflow: hidden;
+
+
+}
+
+.banner>img{
+	width: 100%
+	height:auto;
+
+}
+
+.container{
+	width: 10px;
+	height: auto;
+	margin-left: 200px;
+	margin-right: 200px;
+
+
+}
+
+.heading{
+	 background-color: #f4511e;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 25px;
+  margin: 15px;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.map iframe{
+
+width: 100%
+height:400px;
+}
+
+.data{
+	margin-left: 15px;
+}

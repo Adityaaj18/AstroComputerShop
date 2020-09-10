@@ -1,0 +1,31 @@
+<div class="table">
+<table width="500px" height="300">
+	<tr>
+		<td ><img height="200" width="300" src="https://images-na.ssl-images-amazon.com/images/I/41VOP9apbEL.jpg"></td>
+	</tr>
+	<tr>
+		<td><h2>Specifications</h2></td>
+		
+	</tr>
+	<tr>
+		
+		<td>
+			<h3>PowerColor AXRX 550 4GBD5-DHA AMD Radeon Red Dragon RX 550 Graphic Cards</h3>
+		</td>
+
+	</tr>
+
+	<tr>
+		<td>
+			<ul>
+				<li>4GB 128-Bit GDDR5 </li>
+				<li>1 x DL-DVI-D 1 x HDMI 1 x DisplayPort  </li>
+				<li>Boost Clock 1071 MHz  </li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td><del>Rs.12000</del><span><b>  Rs. 7200</b></span> </td>
+	</tr>
+</table>
+</div>
